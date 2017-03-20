@@ -33,7 +33,7 @@ div.blue {
   display: none;
 }
 
-div.visible {
+.visible {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
